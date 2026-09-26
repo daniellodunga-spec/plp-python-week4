@@ -1,0 +1,1 @@
+Based on the quizes the step 1 , welcome(name) where the required returning an F-string format ("Hello, {name}! Welcome to PLP.) And also the use of curly braces{} instead of parenthesis() and calling the function with print() so it outputs to the console.
